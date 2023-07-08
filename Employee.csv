@@ -1,0 +1,6 @@
+employee_id,first_name,last_name,hire_date,department,job_title
+1001,John,Smith,1/1/2015,IT,Developer
+1002,Jane,Doe,2/15/2016,HR,Manager
+1003,Bob,Johnson,5/20/2017,Sales,Salesperson
+1004,Emily,Wong,9/10/2018,IT,Analyst
+1005,Jack,Lee,12/1/2019,Marketing,Marketer
